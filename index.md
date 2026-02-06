@@ -20,4 +20,4 @@ Users may request deletion of their data at any time. Data is retained only as l
 
 ## Contact
 If you have any questions about this privacy policy, please contact:  
-**Your Name or Project Name**
+**Elvis Ekman**
