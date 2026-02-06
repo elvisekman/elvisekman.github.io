@@ -1,1 +1,3 @@
 # elvisekman.github.io
+
+This application is a personal health and wellness analytics dashboard designed to help users better understand their stress, sleep, recovery, and training patterns over time. The service aggregates Garmin wellness and activity data and presents it through visualizations and personalized insights focused on lifestyle optimization, recovery, and performance. The application is intended for non-medical, informational purposes only and does not provide diagnosis or treatment recommendations. Initially, the project is for personal use and learning, with potential to expand to additional users in the future.
